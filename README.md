@@ -1,4 +1,4 @@
-# EX-RSA
+# EX-9-RSA
 ## AIM:
 To implement the RSA algorithm for encryption and decryption in C using string input.
 
